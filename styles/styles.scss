@@ -820,6 +820,7 @@ body {
     &__title {
       margin-left: 0;
       margin-bottom: 0;
+      max-width: 340px;
     }
 
     &__disclaimer {
@@ -1668,7 +1669,6 @@ body {
     .es-routine {
       &__title {
         padding-left: 20px;
-        max-width: 400px;
         font-size: 35px;
         line-height: 1.4;
         font-weight: 400;
