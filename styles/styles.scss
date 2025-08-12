@@ -944,6 +944,7 @@ body {
         &--first {
           gap: 60px;
           justify-content: space-between;
+          margin-right: 0px;
         }
       }
     }
@@ -1452,6 +1453,10 @@ body {
             right: 23px;
           }
         }
+      }
+
+      &__step-item--first {
+        margin-right: 35px;
       }
 
       &__step-item-subtitle {
